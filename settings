@@ -1,0 +1,9 @@
+{
+"game_starting_speed": 2,
+"jump_magnitude": 20,
+"pipe_spacing": 100,
+"pipe_opening_height": 200,
+"pipe_width": 70,
+"gravity_acceleration": 2,
+"game_acceleration": 1.1
+}
